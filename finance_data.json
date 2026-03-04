@@ -1,0 +1,23 @@
+{
+  "budget": 4000.0,
+  "expenses": [
+    {
+      "amount": 300.0,
+      "category": "їжа",
+      "date": "04.03.2026",
+      "comment": ""
+    },
+    {
+      "amount": 700.0,
+      "category": "транспорт",
+      "date": "04.03.2026",
+      "comment": ""
+    },
+    {
+      "amount": 200.0,
+      "category": "їжа",
+      "date": "13.04.2025",
+      "comment": ""
+    }
+  ]
+}
